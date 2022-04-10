@@ -3,6 +3,14 @@
 I'm learning cybersecurity and here's my memo and mixed files about the topic. Just for me to keep up what I have learned and done.
 
 
+## Table of contents
+1. [Nixu challenge](#NIXU)
+2. [Try hack me](#Tryhackme)
+3. [Hackaday-U](#HackdayU)
+4. [OverTheWire](#OverTheWire)
+5. [Misc](#Misc)
+
+
 # NIXU
 
 |Challenge|In progress|Done|
@@ -48,7 +56,7 @@ Learning reverse engineering:
 
 [Reverse engineering class](./hackaday.md)
 
-# Over the wire
+# OverTheWire
 Bandit challenge done to the level 21
 [Bandit](./OTW/bandit.txt)
 
