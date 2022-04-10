@@ -3,7 +3,7 @@
 I'm learning cybersecurity and here's my memo and mixed files about the topic. Just for me to keep up what I have learned and done.
 
 
-## NIXU
+# NIXU
 
 |Challenge|In progress|Done|
 |:-:|:-:|:-:|
@@ -20,25 +20,39 @@ I'm learning cybersecurity and here's my memo and mixed files about the topic. J
 |Phiscap 3||*|
 |Phiscap 4||*|
 
+[Numbers](./NIXU/numbers.py)
+
+[Phishcap - part 3](./NIXU/Nixutractor.py)
 
 
-## Tryhackme
+# Tryhackme
+
 Best 100 in Finland, that's not much but a step towards the goal to be best of 50.
 
-**TODO:**
+**TODO :**
+
 Jr.Penetration tester path
 
+## Done paths:
+
 ![](./THM/THM-AoC-2021.png)
+
 ![](./THM/THM-beginner.png)
+
 ![](./THM/THM-beginner.png)
 
 [Vulnversity task 4](./THM/john_h.py)
 
-## Over the wire
+# Hackday-U
+Learning reverse engineering:
+
+[Reverse engineering class](./hackaday.md)
+
+# Over the wire
 Bandit challenge done to the level 21
 [Bandit](./OTW/bandit.txt)
 
-## Misc
+# Misc
 
 [Oneplus N100](./oneplus.md)
 
