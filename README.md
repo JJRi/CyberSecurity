@@ -6,8 +6,8 @@ I'm learning cybersecurity and here's my memo and mixed files about the topic. J
 ## Table of contents
 1. [Nixu challenge](#NIXU)
 2. [Try hack me](#Tryhackme)
-3. [Hackaday-U](#HackdayU)
-4. [OverTheWire](#OverTheWire)
+3. [Hackaday-U](#hackday-u)
+4. [OverTheWire](#overthewire)
 5. [Misc](#Misc)
 
 
