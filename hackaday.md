@@ -17,4 +17,5 @@ I'm learning reverse engineering from the scratch. Here I have to use Ghidra.
 **TODO:**
 |Session 2|Answer|notes|
 |-|-|-|
-|Ex1|||
+|loop-example-1|FINDAJOBjarijar|Word lenght is 15. First 8 have to be speacials, numbers or caps.|
+|control-flow-1|201 199|3 compares: 1st>2nd, SHL 2nd by 1 > 1st, 1st > 99|
