@@ -35,11 +35,11 @@ I'm learning cybersecurity and here's my memo and mixed files about the topic. J
 
 # Tryhackme
 
-Best 100 in Finland, that's not much but a step towards the goal to be best of 50.
+Best 100 in Finland, that's not much but a first step towards the goal to be best of 50.
 
 **TODO :**
 
-Jr.Penetration tester path
+Cyber defence learning path
 
 ## Done paths:
 
@@ -52,12 +52,12 @@ Jr.Penetration tester path
 [Vulnversity task 4](./THM/john_h.py)
 
 # Hackday-U
-Learning reverse engineering:
+Learning reverse engineering with this course:
 
 [Reverse engineering class](./hackaday.md)
 
 # OverTheWire
-Bandit challenge done to the level 21
+Bandit challenge done up to the level 21
 [Bandit](./OTW/bandit.txt)
 
 # Misc
