@@ -47,7 +47,7 @@ Cyber defence learning path
 
 ![](./THM/THM-beginner.png)
 
-![](./THM/THM-beginner.png)
+![](./THM/THM-pre_security.png)
 
 [Vulnversity task 4](./THM/john_h.py)
 
