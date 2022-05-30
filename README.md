@@ -2,6 +2,12 @@
 
 I'm learning cybersecurity and here's my memo and mixed files about the topic. Just for me to keep up what I have learned and done.
 
+**Goal of Spring 2022:**
+
+Be in top 100 of all time score on Nixu challenge - **Done**
+
+Be in top 50 of Finland on TryHackme - in progress
+
 
 ## Table of contents
 1. [Nixu challenge](#nixu)
@@ -16,6 +22,7 @@ I'm learning cybersecurity and here's my memo and mixed files about the topic. J
 |Challenge|In progress|Done|
 |:-:|:-:|:-:|
 |Internet of stuff|*||
+|crackme1| | *|
 |PEasy|*|| 
 |Numbers| | *|
 |Bad memories 1| |*|
@@ -28,18 +35,19 @@ I'm learning cybersecurity and here's my memo and mixed files about the topic. J
 |Phiscap 3||*|
 |Phiscap 4||*|
 
+[Crackme1](./NIXU/crackme1-memo.md)
+
 [Numbers](./NIXU/numbers.py)
 
 [Phishcap - part 3](./NIXU/Nixutractor.py)
 
 
+
+
 # Tryhackme
 
-Best 100 in Finland, that's not much but a first step towards the goal to be best of 50.
 
-**TODO :**
-
-Cyber defence learning path
+*TODO:* Cyber defence learning path
 
 ## Done paths:
 
@@ -51,16 +59,22 @@ Cyber defence learning path
 
 [Vulnversity task 4](./THM/john_h.py)
 
-# Hackday-U
-Learning reverse engineering with this course:
+# Reverse engineering
 
-[Reverse engineering class](./hackaday.md)
+[Hackday-U Reverse engineering class](./hackaday.md)
 
-# OverTheWire
-Bandit challenge done up to the level 21
+[Best beginner material - for ex. Introduction to Reverse engineering playlist](https://www.youtube.com/c/DrJoshStroschein)
+
+
+# Something completely different
+
+### OverTheWire
+
+Bandit challenge done up to the level 21. Did this as a part of Linux course in JAMK.
+
 [Bandit](./OTW/bandit.txt)
 
-# Misc
+### Misc
 
 [Oneplus N100](./oneplus.md)
 
