@@ -47,9 +47,11 @@ Be in top 50 of Finland on TryHackme - in progress
 # Tryhackme
 
 
-*TODO:* Cyber defence learning path
+*TODO:* 
 
 ## Done paths:
+
+![](./THM/THM-cyber-defence.png)
 
 ![](./THM/THM-AoC-2021.png)
 
