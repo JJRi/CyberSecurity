@@ -1,12 +1,18 @@
 # CyberSecurity
 
-I'm learning cybersecurity and here's my memo and mixed files about the topic. Just for me to keep up what I have learned and done.
+I'm learning cybersecurity and here's my personal memo and some mixed files about the topic. This is just for me to keep up what I have learned and done **outside my formal studies** at JAMK. Also here are notes of what needs to be done next.
 
-**Goal of Spring 2022:**
+**Goals of Summer 2022:**
+
+Do Hackaday-U reverse engineering class.
+
+Do Jr. Penetration tester path @ THM.
+
+**Goals of Spring 2022:**
 
 Be in top 100 of all time score on Nixu challenge - **Done**
 
-Be in top 50 of Finland on TryHackme - in progress
+Be in top 50 of Finland on TryHackme - **Done**
 
 
 ## Table of contents
@@ -42,12 +48,10 @@ Be in top 50 of Finland on TryHackme - in progress
 [Phishcap - part 3](./NIXU/Nixutractor.py)
 
 
-
-
 # Tryhackme
 
 
-*TODO:* 
+*TODO:* Jr. penetration tester - path 
 
 ## Done paths:
 
@@ -72,7 +76,7 @@ Be in top 50 of Finland on TryHackme - in progress
 
 ### OverTheWire
 
-Bandit challenge done up to the level 21. Did this as a part of Linux course in JAMK.
+Bandit challenge done up to the level 21. Did this as a part of Linux course in JAMK. Do more challenges/paths to re-enforce learning after THM paths are done.
 
 [Bandit](./OTW/bandit.txt)
 
