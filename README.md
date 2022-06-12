@@ -50,11 +50,6 @@ Be in top 50 of Finland on TryHackme - **Done**
 
 # Tryhackme
 
-
-*TODO:* Jr. penetration tester - path 
-
-## Done paths:
-
 ![](./THM/THM-cyber-defence.png)
 
 ![](./THM/THM-AoC-2021.png)
