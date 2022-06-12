@@ -67,7 +67,7 @@ Be in top 50 of Finland on TryHackme - **Done**
 
 # Reverse engineering
 
-[Hackday-U Reverse engineering class](./hackaday.md)
+[Hackday-U Reverse engineering class](./HADU/hackaday.md)
 
 [Best beginner material - for ex. Introduction to Reverse engineering playlist](https://www.youtube.com/c/DrJoshStroschein)
 
@@ -82,7 +82,7 @@ Bandit challenge done up to the level 21. Did this as a part of Linux course in 
 
 ### Misc
 
-[Oneplus N100](./oneplus.md)
+[Oneplus N100](./MISC/oneplus.md)
 
 
 
