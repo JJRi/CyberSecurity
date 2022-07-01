@@ -6,7 +6,7 @@ I'm learning cybersecurity and here's my personal memo and some mixed files abou
 
 Do Hackaday-U reverse engineering class.
 
-Do Jr. Penetration tester path @ THM.
+Do Jr. Penetration tester path @ THM. ----- **Done**
 
 **Goals of Spring 2022:**
 
@@ -49,6 +49,10 @@ Be in top 50 of Finland on TryHackme - **Done**
 
 
 # Tryhackme
+
+![](./THM/THM-jr-penet-test.png)
+
+![](./THM/THM-comptia-pentest-plus.png)
 
 ![](./THM/THM-cyber-defence.png)
 
