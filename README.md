@@ -16,7 +16,7 @@ Be in top 50 of Finland on TryHackme - **Done**
 
 
 ## Table of contents
-1. [Nixu challenge](#nixu)
+1. [Nixu challenge](#NIXU)
 2. [Try hack me](#tryhackme)
 3. [Hackaday-U](#hackday-u)
 4. [OverTheWire](#overthewire)
