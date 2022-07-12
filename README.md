@@ -17,10 +17,10 @@ Be in top 50 of Finland on TryHackme - **Done**
 
 ## Table of contents
 1. [Nixu challenge](#NIXU)
-2. [Try hack me](#tryhackme)
-3. [Hackaday-U](#hackday-u)
-4. [OverTheWire](#overthewire)
-5. [Misc](#misc)
+2. [Try hack me](#TryHackMe)
+3. [Hackaday-U](#Hackday-U)
+4. [OverTheWire](#OverTheWire)
+5. [Misc](#Misc)
 
 
 # NIXU
@@ -48,7 +48,7 @@ Be in top 50 of Finland on TryHackme - **Done**
 [Phishcap - part 3](./NIXU/Nixutractor.py)
 
 
-# Tryhackme
+# TryHackMe
 
 ![](./THM/THM-jr-penet-test.png)
 
@@ -64,7 +64,7 @@ Be in top 50 of Finland on TryHackme - **Done**
 
 [Vulnversity task 4](./THM/john_h.py)
 
-# Reverse engineering
+# Hackday-U
 
 [Hackday-U Reverse engineering class](./HADU/hackaday.md)
 
