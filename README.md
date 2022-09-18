@@ -2,6 +2,16 @@
 
 I'm learning cybersecurity and here's my personal memo and some mixed files about the topic. This is just for me to keep up what I have learned and done **outside my formal studies** at JAMK. Also here are notes of what needs to be done next.
 
+**Goals of Autum 2022:**
+
+* Be in top 15 of Finland on TryHackme
+ 
+* * You started to put down memos about rooms you do, it was a good idea.
+
+* Do three Nixu challenges (1st: PEasy, 2nd: , 3rd: )
+
+* Continue and finish the HackADay-U course
+
 **Goals of Summer 2022:**
 
 Do Hackaday-U reverse engineering class.
@@ -29,7 +39,7 @@ Be in top 50 of Finland on TryHackme - **Done**
 |:-:|:-:|:-:|
 |Internet of stuff|*||
 |crackme1| | *|
-|PEasy|*|| 
+|PEasy||*| 
 |Numbers| | *|
 |Bad memories 1| |*|
 |Bad memories 1| |*|

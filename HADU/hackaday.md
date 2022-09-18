@@ -26,6 +26,7 @@ I'm learning reverse engineering from the scratch. This is a free course with vi
 **In progress**
 |Session 3|Answer|notes|
 |-|-|-|
+|structs| 00000002 naapurii 'YPP_d]XX' | it makes a struct where it saves the data. A function is used to  manipulate the structs variable to verify the password. Note to self: concept was clear, but to identify struct from assembly needs practise. |
 
 
 
