@@ -8,7 +8,7 @@ I'm learning cybersecurity and here's my personal memo and some mixed files abou
  
 * * You started to put down memos about rooms you do, it was a good idea.
 
-* Do three Nixu challenges (1st: PEasy, 2nd: , 3rd: )
+* Do three Nixu challenges (1st: PEasy, 2nd:Internet_Of_Stuff, 3rd: )
 
 * Continue and finish the HackADay-U course
 
@@ -37,7 +37,7 @@ Be in top 50 of Finland on TryHackme - **Done**
 
 |Challenge|In progress|Done|
 |:-:|:-:|:-:|
-|Internet of stuff|*||
+|Internet of stuff||*|
 |crackme1| | *|
 |PEasy||*| 
 |Numbers| | *|
