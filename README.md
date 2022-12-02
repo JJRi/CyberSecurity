@@ -31,6 +31,7 @@ Be in top 50 of Finland on TryHackme - **Done**
 3. [Hackaday-U](#Hackday-U)
 4. [OverTheWire](#OverTheWire)
 5. [Misc](#Misc)
+6. [Mooc](#Mooc)
 
 
 # NIXU
@@ -94,4 +95,8 @@ Bandit challenge done up to the level 21. Did this as a part of Linux course in 
 [Oneplus N100](./MISC/oneplus.md)
 
 
+# Mooc
+
+Intro course - done
+![](./MOOC/intro.png)
 
