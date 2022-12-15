@@ -2,15 +2,38 @@
 
 I'm learning cybersecurity and here's my personal memo and some mixed files about the topic. This is just for me to keep up what I have learned and done **outside my formal studies** at JAMK. Also here are notes of what needs to be done next.
 
+
+
+## Table of contents
+0. [Milestones](#Milestones)
+1. [Nixu challenge](#NIXU)
+2. [Try hack me](#TryHackMe)
+3. [Hackaday-U](#Hackday-U)
+4. [OverTheWire](#OverTheWire)
+5. [Misc](#Misc)
+6. [Mooc](#Mooc)
+
+# Milestones
+
+**Goals of winter 2022:**
+
+* Mooc - complite at least two first. - done
+
+* Do advent of cyber at THM
+
 **Goals of Autum 2022:**
 
 * Be in top 15 of Finland on TryHackme
  
-* * You started to put down memos about rooms you do, it was a good idea.
+* * You started to put down memos about rooms you do, it was a good idea. Peaked at 17.
 
 * Do three Nixu challenges (1st: PEasy, 2nd:Internet_Of_Stuff, 3rd: )
 
+* * Only two complited, not enough time to complite third.
+
 * Continue and finish the HackADay-U course
+
+* * This will go to the backlog, complite when you have time
 
 **Goals of Summer 2022:**
 
@@ -23,15 +46,6 @@ Do Jr. Penetration tester path @ THM. ----- **Done**
 Be in top 100 of all time score on Nixu challenge - **Done**
 
 Be in top 50 of Finland on TryHackme - **Done**
-
-
-## Table of contents
-1. [Nixu challenge](#NIXU)
-2. [Try hack me](#TryHackMe)
-3. [Hackaday-U](#Hackday-U)
-4. [OverTheWire](#OverTheWire)
-5. [Misc](#Misc)
-6. [Mooc](#Mooc)
 
 
 # NIXU
