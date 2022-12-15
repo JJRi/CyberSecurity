@@ -97,6 +97,10 @@ Bandit challenge done up to the level 21. Did this as a part of Linux course in 
 
 # Mooc
 
-Intro course - done
+### Intro course - done
+
 ![](./MOOC/intro.png)
 
+### Securing Software - done
+
+![](./MOOC/securing_software_cert.png)
