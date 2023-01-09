@@ -17,9 +17,11 @@ I'm learning cybersecurity and here's my personal memo and some mixed files abou
 
 **Goals of winter 2022:**
 
-* Mooc - complite at least two first. - done
+* Mooc - complite at least two first. - DONE
 
-* Do advent of cyber at THM
+* Do advent of cyber at THM - 60% done, decided to skip this year
+
+* Finnish Discord server link challenge - DONE
 
 **Goals of Autum 2022:**
 
@@ -27,7 +29,7 @@ I'm learning cybersecurity and here's my personal memo and some mixed files abou
  
 * * You started to put down memos about rooms you do, it was a good idea. Peaked at 17.
 
-* Do three Nixu challenges (1st: PEasy, 2nd:Internet_Of_Stuff, 3rd: )
+* Do three Nixu challenges (1st: PEasy, 2nd:Internet_Of_Stuff, 3rd: THS Armada)
 
 * * Only two complited, not enough time to complite third.
 
