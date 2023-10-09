@@ -15,6 +15,10 @@ I'm learning cybersecurity and here's my personal memo and some mixed files abou
 
 # Milestones
 
+**Goals of Spring 2023:**
+
+* Get a internship/practical training job. - DONE
+
 **Goals of winter 2022:**
 
 * Mooc - complite at least two first. - DONE
