@@ -52,6 +52,8 @@ Be in top 50 of Finland on TryHackme - **Done**
 
 # NIXU
 
+Nixu challenge username 8942464899621376066
+
 |Challenge|In progress|Done|
 |:-:|:-:|:-:|
 |Internet of stuff||*|
