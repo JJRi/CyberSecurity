@@ -19,6 +19,8 @@ I'm learning cybersecurity and here's my personal memo and some mixed files abou
 
 * Get a internship/practical training job. - DONE
 
+* Mooc - complite at least one more course. - DONE
+
 **Goals of winter 2022:**
 
 * Mooc - complite at least two first. - DONE
