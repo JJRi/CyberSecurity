@@ -76,3 +76,7 @@ Bandit challenge done up to the level 21. Did this as a part of Linux course in 
 ### Securing Software - done
 
 ![](./MOOC/securing_software_cert.png)
+
+### Cyber Security Capture the Flag 2023
+
+![](./MOOC/certificate-cyber-ctf-2023.png)
